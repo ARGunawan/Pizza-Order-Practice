@@ -1,7 +1,7 @@
 # Pizza-Order-Practice
 100 Days of Python Coding: Practice Exercise #3-4
 
-#Based on a user's order, work out their final bill:
+Based on a user's order, work out their final bill:
 
 Small Pizza: $15
 Medium Pizza: $20
@@ -10,7 +10,7 @@ Pepperoni for Small Pizza: +$2
 Pepperoni for Medium or Large Pizza: +$3
 Extra cheese for any size pizza: + $1
 
-#Example Input
+Example Input
 size = "L"
 add_pepperoni = "Y"
 extra_cheese = "N"
